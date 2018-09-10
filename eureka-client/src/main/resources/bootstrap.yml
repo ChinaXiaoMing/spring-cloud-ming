@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-client
+    name: eureka-client
   cloud:
     config:
       label: master
